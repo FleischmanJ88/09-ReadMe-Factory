@@ -1,9 +1,9 @@
 // TODO: Include packages needed for this application
 const inquirer = require("inquirer");
-const fs = require ("fs");
+const fs = require("fs");
 // TODO: Create an array of questions for user input
 const questions = [
-{
+  {
     type: 'input',
     message: ` \u001b[32m(1 of 9) What is the title of your project?`,
     name: 'title'
@@ -31,7 +31,7 @@ const questions = [
   {
     type: 'list',
     message: '\u001b[32m(6 of 9)Please pick your license:',
-    choices: ['MIT','GnuPL','(None)'],
+    choices: ['MIT', 'GnuPL', '(None)'],
     name: 'license'
   },
   {
@@ -46,10 +46,17 @@ const questions = [
   }
 ];
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
-
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, (err) => {
+    console.log(err ? err : "successfully added!");
+  })
+}
 // TODO: Create a function to initialize app
-function init() {}
-
+function init() {
+  inq.prompt(questions)
+    .then(response => {
+      writeToFile('sample_readme.md', JSON.stringify(response));
+    });
+}
 // Function call to initialize app
 init();

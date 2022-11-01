@@ -33,7 +33,7 @@ const questions = [
   {
     type: 'list',
     message: 'Please pick your license:',
-    choices: ['MIT', 'Apache License 2.0', 'The Unilicense', 'None of the above'],
+    choices: ['MIT', 'Apache 2.0 License', 'GNU', 'N/A'],
     name: 'license'
   },
   {

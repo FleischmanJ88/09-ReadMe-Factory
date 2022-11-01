@@ -1,33 +1,27 @@
-# ReadMe Factory
-  undefined
+# 1
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
  ## Description of application  
- undefined
+ 3
  ## Table of Contents
  * [Description](#description-of-application)
  * [Installation](#installation)
  * [Usage](#usage)
  * [License](#license)
- * [Contributing](#contributing)
- * [Tests](#tests)
  * [Questions](#questions)
  
  ## Installation
- undefined
+ 4
+
  ## Usage  
- Help generate a ReadMe for user
+ 5
  
  ## License
- This projects uses the MIT undefined    
- For more information about this license, visit undefined
+ This projects uses the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)    
+ For more information about this license, visit (https://opensource.org/licenses/MIT)
  
- 
- ## Contributing
- undefined
 
- ## Tests
- undefined
- 
  ## Questions
  For questions, take a look at my GitHub account: undefined  
- or email me at: FleischmanJ88@gmail.com
+ or email me at: 7
+

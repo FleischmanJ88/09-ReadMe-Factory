@@ -2,7 +2,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
  ## Description of application  
- Title, Description, Contents, etc...
+ Title, Discription, Usage, etc...
  ## Table of Contents
  * [Description](#description-of-application)
  * [Installation](#installation)
@@ -16,17 +16,17 @@
  Inquirer 8.2.4
 
  ## Usage  
- Assistance generating a ReadMe
+ Help generate a ReadMe for a user
  
  ## License
  This projects uses the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)    
  For more information about this license, visit (https://opensource.org/licenses/MIT)
  
  ## Contributing
- contact the creator
+ By adding content
 
  ## Tests
- Yes
+ Yolo
 
  ## Questions
  For questions, take a look at my GitHub account: FleischmanJ88  

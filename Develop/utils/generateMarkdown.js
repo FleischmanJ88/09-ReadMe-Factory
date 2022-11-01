@@ -101,3 +101,7 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
+
+
+// used https://stackoverflow.com/questions/67013842/trying-to-place-license-badge-within-readme-md-using-node-js-but-getting-error-a
+// to help figure out some coding

@@ -66,6 +66,7 @@ function generateMarkdown(data) {
   let contents = data.contents;
   let installation = data.installation;
   let usage = data.usage;
+  let contributing = data.contributing ;
   let license = data.license;
   let github = data.github;
   let email = data.email;
@@ -80,6 +81,8 @@ function generateMarkdown(data) {
  * [Installation](#installation)
  * [Usage](#usage)
  * [License](#license)
+ * [Contributing](#contributing)
+ * [Tests](#tests)
  * [Questions](#questions)
  
  ## Installation
@@ -92,6 +95,11 @@ function generateMarkdown(data) {
  This projects uses the ${renderLicenseBadge(data.license)}    
  For more information about this license, visit ${renderLicenseLink(data.license)}
  
+ ## Contributing
+ ${data.contributing}
+
+ ## Tests
+ ${data.tests}
 
  ## Questions
  For questions, take a look at my GitHub account: ${data.github}  

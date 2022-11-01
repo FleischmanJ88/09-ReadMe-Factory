@@ -1,8 +1,8 @@
-# 1
+# ReadMe Factory
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
  
  ## Description of application  
- 3
+ Title, Description, Contents, Etc...
  ## Table of Contents
  * [Description](#description-of-application)
  * [Installation](#installation)
@@ -11,10 +11,10 @@
  * [Questions](#questions)
  
  ## Installation
- 4
+ Inquirer 8.2.4
 
  ## Usage  
- 5
+ Generate a readme
  
  ## License
  This projects uses the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)    
@@ -22,6 +22,6 @@
  
 
  ## Questions
- For questions, take a look at my GitHub account: undefined  
- or email me at: 7
+ For questions, take a look at my GitHub account: FleischmanJ88  
+ or email me at: FleischmanJ88@gmail.com
 

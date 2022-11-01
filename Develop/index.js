@@ -31,6 +31,22 @@ const questions = [
     name: 'usage'
   },
   {
+    type: 'input',
+    message: 'How can you contribute?:',
+    name: 'contributing'
+  },
+  {
+    type: 'list',
+    message: 'Would you like to test your updates?:',
+    name: 'tests',
+    choices: ['Yes', 'No', 'Yolo'],
+  },
+  {
+    type: 'input',
+    message: 'Do you have any questions for the creator?:',
+    name: 'question'
+  },
+  {
     type: 'list',
     message: 'Please pick your license:',
     choices: ['MIT', 'Apache 2.0 License', 'GNU', 'N/A'],
